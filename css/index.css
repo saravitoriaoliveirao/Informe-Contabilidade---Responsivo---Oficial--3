@@ -634,6 +634,7 @@ h3{
     height: auto;
     display: flex;
     display: grid;
+    padding-top: 15px;
     grid-template-columns: repeat(auto-fit, 150px);
     justify-content: center;
     grid-gap: 40px;
@@ -647,13 +648,17 @@ h3{
 
 .logo-parceria{
     width: 150px;
-    height: 130px;
+    height: 125px;
     transition: 0.5s;
     margin-bottom: 5px;
 }
 
 .logo-parceria:hover{
     transform: scale(1.1);
+}
+
+.logo_cromoarte{
+    border-radius: 50%;
 }
 
 /* Seção Rodapé */
