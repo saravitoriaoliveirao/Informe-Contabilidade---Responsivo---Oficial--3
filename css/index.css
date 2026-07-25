@@ -807,13 +807,14 @@ h3{
 
     .direitos1{
         display: block;
-        margin-left: -117px ;
+        margin-left: -116px ;
         margin-right: none;
         font-size: 9px;
     }
 
     .logo-parceria{
-        width: 115px;
+        width: 110px;
+        height: 130px;
     }
 
     .itens-rodape{
