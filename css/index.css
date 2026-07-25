@@ -809,11 +809,11 @@ h3{
         display: block;
         margin-left: -120px ;
         margin-right: none;
-        font-size: 5px;
+        font-size: 10px;
     }
 
     .logo-parceria{
-        border-radius: 40%;
+        width: 130px;
     }
 
     .itens-rodape{
